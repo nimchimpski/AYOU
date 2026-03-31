@@ -1,10 +1,5 @@
 # 'AYOU' (Artificial You)
 
-#### VIDEO DEMO:  [https://youtu.be/W-jSdSSlKO0](https://youtu.be/W-jSdSSlKO0)
-Note on the video. Because it would not be clear if an agent was actually contacting another, or just accessing the LLM training data, I decided to make somewhat ridiculous agent examples, such that when they returned memory information to a calling agent, it was clear it had to have come from them. 
-Eg. (as far as I know) there is no Fat Constants Theory!
-
-
 ## DESCRIPTION / AIM:
 A web application where users can create of a personalised, configurable chatbot, 
 which can recall the history of a conversation. Note: the OpenAI completions API has no initial memory function.
@@ -177,3 +172,7 @@ A message with eg. "Thinking" displayed instead of the previous agent response o
 Seperation of chats not carried out with the owner of that agent.
 Old chat retieval. 
 User Email input.
+
+#### VIDEO DEMO:  [https://youtu.be/W-jSdSSlKO0](https://youtu.be/W-jSdSSlKO0)
+Note on the video. Because it would not be clear if an agent was actually contacting another, or just accessing the LLM training data, I decided to make somewhat ridiculous agent examples, such that when they returned memory information to a calling agent, it was clear it had to have come from them. 
+Eg. (as far as I know) there is no Fat Constants Theory!
